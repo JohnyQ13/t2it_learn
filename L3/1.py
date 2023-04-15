@@ -1,3 +1,5 @@
+# ODD and EVEN number
+
 x = int(input('Input number:'))
 
 if not x:

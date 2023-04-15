@@ -1,3 +1,5 @@
+# outputs digits and multiples of a number
+
 n = int(input('input number:'))
 s = 0
 l = []
