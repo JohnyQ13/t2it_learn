@@ -19,7 +19,7 @@ for id, item in enumerate(lob):
     count = cash // lob[id]
     if count:
         result[lob[id]] = count
-        cash %= lob[id]
+        cash %= lob[id]     
 print('You bills:')
 
 for id, count in result.items():
